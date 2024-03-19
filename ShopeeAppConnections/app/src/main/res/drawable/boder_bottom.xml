@@ -1,0 +1,18 @@
+<!-- res/drawable/rounded_bottom_border.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" /> <!-- Set your desired background color (white) -->
+            <corners android:radius="4dp" /> <!-- Adjust the radius to control the corner roundness -->
+        </shape>
+    </item>
+    <item android:bottom="2dp"> <!-- Set the bottom margin for the border -->
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" /> <!-- Set the same color as the background to cover the original shape -->
+            <corners android:radius="4dp" /> <!-- Adjust the radius to control the corner roundness -->
+            <stroke
+                android:color="#000000"
+            android:width="2dp" />
+        </shape>
+    </item>
+</layer-list>

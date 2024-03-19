@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ShopeeApp</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="gia_250000d">Gia: 250000d</string>
+    <string name="th_m_v_o_gi_h_ng">Thêm vào giỏ hàng</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="sort_options">
+        <item>Price (High to Low)</item>
+        <!-- Add more sorting options if needed -->
+    </string-array>
+
+    <string name="label_select_new">Mới nhất</string>
+    <string name="label_select_hot">Bán chạy</string>
+    <string name="label_select_cohcong">Giá tăng dần</string>
+    <string name="label_select_trutru">Giá giảm dần</string>
+
+    <string name="label_select_tinh">Chọn Tỉnh</string>
+    <string name="label_select_huyen">Chọn Huyện</string>
+    <string name="label_select_quan">Chọn Quận</string>
+    <string name="label_select_xa">Chọn Xã</string>
+    <string name="label_select_hem">Chọn Hẻm</string>
+
+
+</resources>

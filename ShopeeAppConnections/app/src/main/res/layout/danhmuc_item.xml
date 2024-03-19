@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="80dp"
+    android:layout_height="80dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginTop="7dp"
+    android:layout_marginBottom="5dp"
+    android:layout_marginRight="5dp"
+
+    >
+
+
+    <ImageView
+        android:id="@+id/Anhdanhmuc"
+        android:layout_width="45dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.457"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@drawable/bg_with_border"
+
+        app:srcCompat="@drawable/ic_media_24" />
+
+    <TextView
+        android:id="@+id/tendanhmuc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textSize="13dp"
+        android:gravity="center"
+        android:textStyle="normal"
+        android:textColor="@color/black"
+        app:layout_constraintTop_toBottomOf="@+id/Anhdanhmuc"
+        app:layout_constraintStart_toStartOf="@+id/Anhdanhmuc"
+        app:layout_constraintEnd_toEndOf="@+id/Anhdanhmuc"
+        android:layout_marginTop="10dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
