@@ -1,0 +1,581 @@
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.exe
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.pdb
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csprojResolveAssemblyReference.cache
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.Properties.Resources.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.GenerateResource.Cache
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.exe.licenses
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.exe
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.pdb
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmMain.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.exe.config
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\EntityFramework.dll
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\EntityFramework.xml
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTrangChu.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmDoiMK.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTaoTK.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmDangNhap.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLMuonSach.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLTraSach.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLDocGia.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLSach.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmBaoCaoThongKe.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTimKiem.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmNCC.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmInTheDG.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.rptInTheDG.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLSach1.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\Interop.WMPLib.dll
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\AxInterop.WMPLib.dll
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\Interop.WMPLib.dll
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\AxInterop.WMPLib.dll
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.ResolveComReference.cache
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmVideo.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmHD.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmHD1.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmVideo1.resources
+D:\Year 4 TTLTWindow 3c\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmSplashScreen.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.exe.config
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\Interop.WMPLib.dll
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\AxInterop.WMPLib.dll
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.ResolveComReference.cache
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.exe
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.pdb
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.exe
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.pdb
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\EntityFramework.dll
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\EntityFramework.xml
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\Interop.WMPLib.dll
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\AxInterop.WMPLib.dll
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csprojResolveAssemblyReference.cache
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmDoiMK.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmHD.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmHD1.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmInTheDG.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLSach1.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmSplashScreen.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTaoTK.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTrangChu.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmDangNhap.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmMain.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLMuonSach.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLTraSach.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLDocGia.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLSach.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmBaoCaoThongKe.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTimKiem.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmNCC.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmVideo.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmVideo1.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.Properties.Resources.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.rptInTheDG.resources
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.GenerateResource.Cache
+D:\Hoc Tap\Nam 4\HK 1\Year 4 TTLTWindow 3c B\BTL_QLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.exe.licenses
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.exe.config
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\Interop.WMPLib.dll
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\AxInterop.WMPLib.dll
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.ResolveComReference.cache
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.exe
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.pdb
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csprojResolveAssemblyReference.cache
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmDoiMK.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmHD.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmHD1.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmInTheDG.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLSach1.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmSplashScreen.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTaoTK.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTrangChu.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmDangNhap.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmMain.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLMuonSach.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLTraSach.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLDocGia.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLSach.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmBaoCaoThongKe.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTimKiem.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmNCC.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmVideo.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmVideo1.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.Properties.Resources.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.rptInTheDG.resources
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.GenerateResource.Cache
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.exe.licenses
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.exe
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.pdb
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\EntityFramework.dll
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\EntityFramework.xml
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\Interop.WMPLib.dll
+E:\HOCTAP\MHHDL\BaoCao\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.exe.config
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.exe
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.pdb
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Charts.v22.1.Core.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.CodeParser.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.DataAccess.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Images.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.PivotGrid.v22.1.Core.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.RichEdit.v22.1.Export.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Utils.v22.1.UI.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Xpo.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraCharts.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraGauges.v22.1.Core.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraPdfViewer.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraPivotGrid.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraReports.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.Desktop.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v22.1.Reporting.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v22.1.Reporting.Extensions.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.DataAccess.v22.1.UI.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraCharts.v22.1.Extensions.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraDiagram.v22.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Diagram.v22.1.Core.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.DataAccess.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.PivotGrid.v22.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Utils.v22.1.UI.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Xpo.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraGauges.v22.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraPdfViewer.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraPivotGrid.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraReports.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v22.1.Reporting.Extensions.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.Desktop.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v22.1.Reporting.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.DataAccess.v22.1.UI.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraDiagram.v22.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Diagram.v22.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraPdfViewer.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraPdfViewer.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraPdfViewer.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraScheduler.v22.1.Reporting.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraScheduler.v22.1.Reporting.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraScheduler.v22.1.Reporting.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\de\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\es\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\ja\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\Interop.WMPLib.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.ResolveComReference.cache
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmDoiMK.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmHD.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmHD1.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmInTheDG.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLSach1.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmSplashScreen.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTaoTK.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTrangChu.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmDangNhap.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmMain.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLMuonSach.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLTraSach.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLDocGia.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLSach.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmBaoCaoThongKe.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTimKiem.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmNCC.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmVideo.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmVideo1.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.Properties.Resources.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.rptInTheDG.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.exe.licenses
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.CopyComplete
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.exe
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.pdb
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.Form1.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmNPT.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.Form2.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.exe.config
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.exe
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.pdb
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\EntityFramework.dll
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\EntityFramework.xml
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\Interop.WMPLib.dll
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\AxInterop.WMPLib.dll
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.AssemblyReference.cache
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.SuggestedBindingRedirects.cache
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\Interop.WMPLib.dll
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\AxInterop.WMPLib.dll
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.ResolveComReference.cache
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.Form1.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.Form2.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmDoiMK.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmHD.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmHD1.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmInTheDG.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLSach1.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmSplashScreen.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTaoTK.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTrangChu.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmDangNhap.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmMain.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLMuonSach.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLTraSach.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLDocGia.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLSach.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmBaoCaoThongKe.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTimKiem.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmNCC.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmVideo.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmVideo1.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmNPT.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.Properties.Resources.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.rptInTheDG.resources
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.GenerateResource.cache
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.exe.licenses
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.CoreCompileInputs.cache
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.CopyComplete
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.exe
+C:\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.pdb
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.exe.config
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.exe
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.pdb
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Charts.v23.1.Core.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.CodeParser.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Data.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.DataAccess.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Images.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Office.v23.1.Core.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.PivotGrid.v23.1.Core.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.RichEdit.v23.1.Export.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Utils.v23.1.UI.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Xpo.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraBars.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraCharts.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraGauges.v23.1.Core.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraNavBar.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraPdfViewer.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraPivotGrid.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraReports.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraReports.v23.1.Extensions.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.Desktop.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v23.1.Reporting.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v23.1.Reporting.Extensions.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\EntityFramework.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraRichEdit.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.DataVisualization.v23.1.Core.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.DataAccess.v23.1.UI.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraCharts.v23.1.Extensions.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraDiagram.v23.1.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Diagram.v23.1.Core.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Charts.v23.1.Core.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Data.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.DataAccess.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Office.v23.1.Core.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.PivotGrid.v23.1.Core.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Utils.v23.1.UI.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Xpo.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraCharts.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraGauges.v23.1.Core.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraNavBar.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraPdfViewer.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraPivotGrid.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraReports.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraReports.v23.1.Extensions.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v23.1.Reporting.Extensions.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.Desktop.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v23.1.Reporting.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\EntityFramework.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraRichEdit.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.DataAccess.v23.1.UI.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraDiagram.v23.1.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Diagram.v23.1.Core.xml
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\Interop.WMPLib.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\AxInterop.WMPLib.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.AssemblyReference.cache
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.SuggestedBindingRedirects.cache
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\Interop.WMPLib.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\AxInterop.WMPLib.dll
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.ResolveComReference.cache
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.Form1.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.Form2.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmDoiMK.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmHD.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmHD1.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmSplashScreen.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTaoTK.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTrangChu.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmDangNhap.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmMain.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmBaoCaoThongKe.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTimKiem.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmVideo.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmVideo1.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmNPT.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.Properties.Resources.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.rptInTheDG.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.GenerateResource.cache
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.exe.licenses
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.CoreCompileInputs.cache
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.CopyComplete
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.exe
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.pdb
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmCH.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmInThe.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLCH.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLSP.resources
+D:\DevExpress\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLKH.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.exe.config
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.exe
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\LTWin_PMQLTV.pdb
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraRichEdit.v23.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.DataVisualization.v23.1.Core.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.DataAccess.v23.1.UI.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraCharts.v23.1.Extensions.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraDiagram.v23.1.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Diagram.v23.1.Core.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Charts.v23.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.DataAccess.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Office.v23.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.PivotGrid.v23.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Utils.v23.1.UI.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Xpo.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraCharts.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraGauges.v23.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraNavBar.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraPdfViewer.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraPivotGrid.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraReports.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraReports.v23.1.Extensions.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v23.1.Reporting.Extensions.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.Desktop.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v23.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraScheduler.v23.1.Reporting.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraRichEdit.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.DataAccess.v23.1.UI.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.XtraDiagram.v23.1.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\DevExpress.Diagram.v23.1.Core.xml
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\Interop.WMPLib.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.ResolveComReference.cache
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.Form1.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.Form2.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmDoiMK.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmHD.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmHD1.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmInThe.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLKH.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmSplashScreen.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTaoTK.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTrangChu.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmDangNhap.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmMain.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLCH.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmQLSP.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmBaoCaoThongKe.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmTimKiem.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmCH.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmVideo.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmVideo1.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.frmNPT.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.Properties.Resources.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.rptInTheDG.resources
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.exe.licenses
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.csproj.CopyComplete
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.exe
+C:\Users\admin\Downloads\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\LTWin_PMQLTV\obj\Debug\LTWin_PMQLTV.pdb

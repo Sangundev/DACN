@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LTWin_DTQLTVModelStoreContainer" CdmEntityContainer="LTWin_DTQLTVEntities">
+    <EntitySetMapping Name="View_1">
+      <EntityTypeMapping TypeName="LTWin_DTQLTVModel.View_1">
+        <MappingFragment StoreEntitySet="View_1">
+          <ScalarProperty Name="MADG" ColumnName="MADG" />
+          <ScalarProperty Name="TENDG" ColumnName="TENDG" />
+          <ScalarProperty Name="NGAYSINH" ColumnName="NGAYSINH" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="NGAYHETHAN" ColumnName="NGAYHETHAN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

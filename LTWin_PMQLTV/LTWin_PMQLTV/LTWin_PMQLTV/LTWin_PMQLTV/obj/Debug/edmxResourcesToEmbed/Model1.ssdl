@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LTWin_DTQLTVModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'LTWin_DTQLTV.dbo.View_1' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="View_1">
+    <Key>
+      <PropertyRef Name="MADG" />
+    </Key>
+    <Property Name="MADG" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TENDG" Type="nvarchar" MaxLength="30" />
+    <Property Name="NGAYSINH" Type="smalldatetime" />
+    <Property Name="SDT" Type="char" MaxLength="11" />
+    <Property Name="NGAYHETHAN" Type="smalldatetime" />
+  </EntityType>
+  <EntityContainer Name="LTWin_DTQLTVModelStoreContainer">
+    <EntitySet Name="View_1" EntityType="Self.View_1" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+[View_1].[MADG] AS [MADG], 
+[View_1].[TENDG] AS [TENDG], 
+[View_1].[NGAYSINH] AS [NGAYSINH], 
+[View_1].[SDT] AS [SDT], 
+[View_1].[NGAYHETHAN] AS [NGAYHETHAN]
+FROM [dbo].[View_1] AS [View_1]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
