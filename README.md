@@ -69,3 +69,5 @@
 		- Chat với của hàng.
 		- Tìm kiếm bàng giọng nói từ khóa hình ảnh .
 		- Lọc sản phẩm ( loại giá ....)
+
+![image](https://github.com/Sangundev/DACN/assets/99321687/4fc6e85a-d450-4e0c-b185-7569cea67bd0)
