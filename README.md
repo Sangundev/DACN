@@ -81,14 +81,13 @@ Dự án này nhằm phát triển một sàn thương mại điện tử đa n�
 		- Lọc sản phẩm ( loại giá ....)
 
 #### Kết quả thực nghiệm 
-	### Cơ sở dữ liệu 
-		![image](https://github.com/Sangundev/DACN/assets/99321687/46292b68-1651-474b-9ac4-0f295bd1a317)
-	### Kết quả thực nghiệm
-		![image](https://github.com/Sangundev/DACN/assets/99321687/816c523e-3b8b-4e43-9f52-329828a6478d)
-		![image](https://github.com/Sangundev/DACN/assets/99321687/1d8c64d3-e126-45a4-9ec6-bca97cc2cb8c)
-		![image](https://github.com/Sangundev/DACN/assets/99321687/11091b2f-4cbb-4e7a-8df4-da648ab69ba0)
-		![image](https://github.com/Sangundev/DACN/assets/99321687/1644eb13-e573-4eb1-a9d7-702cc3ce02de)
-	-> chi tiết hơn có thể xem ở đây: https://docs.google.com/document/d/18z5d3tiZHktO6uQjMMjiHLwNR3k77FvX/edit?usp=sharing&ouid=103353651563422340424&rtpof=true&sd=true
+### Cơ sở dữ liệu 
+![image](https://github.com/Sangundev/DACN/blob/main/assets/99321687/46292b68-1651-474b-9ac4-0f295bd1a317.png)
+### Kết quả thực nghiệm
+![image](https://github.com/Sangundev/DACN/blob/main/assets/99321687/816c523e-3b8b-4e43-9f52-329828a6478d.png)
+![image](https://github.com/Sangundev/DACN/blob/main/assets/99321687/1d8c64d3-e126-45a4-9ec6-bca97cc2cb8c.png)
+![image](https://github.com/Sangundev/DACN/blob/main/assets/99321687/11091b2f-4cbb-4e7a-8df4-da648ab69ba0.png)
+![image](https://github.com/Sangundev/DACN/blob/main/assets/99321687/1644eb13-e573-4eb1-a9d7-702cc3ce02de.png)
 
-
+-> Chi tiết hơn có thể xem ở đây: [Google Docs](https://docs.google.com/document/d/18z5d3tiZHktO6uQjMMjiHLwNR3k77FvX/edit?usp=sharing&ouid=103353651563422340424&rtpof=true&sd=true)
 
