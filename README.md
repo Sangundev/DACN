@@ -90,3 +90,5 @@ Dự án này nhằm phát triển một sàn thương mại điện tử đa n�
 ![image](https://github.com/Sangundev/DACN/assets/99321687/0dfd033e-47e7-4560-87d9-1017b3cb4b62)
 
 -> Chi tiết hơn có thể xem ở đây: [Google Docs](https://docs.google.com/document/d/18z5d3tiZHktO6uQjMMjiHLwNR3k77FvX/edit?usp=sharing&ouid=103353651563422340424&rtpof=true&sd=true)
+
+[Lưu ý]: Src code nằm bên nhánh của git này.
