@@ -1,9 +1,13 @@
-# TÁC GIẢ : NGOCSANG
-## Mô tả src:
-* Mô tả đề tài : App + website Sàn thương mại điện tử 
-- Đề tài sẽ làm trên 3 nền tảng winform + website + App
-  + WinForm ( dành cho admin và nhân viên ) làm trên visual studio + Dev Express (giao diện )
-	* Nhân viên : 
+# Sàn Thương Mại Điện Tử - Ứng Dụng và Website
+
+## Tác giả: NGỌC SANG
+
+### Mô tả Dự Án:
+
+Dự án này nhằm phát triển một sàn thương mại điện tử đa nền tảng, bao gồm ứng dụng WinForm, website và ứng dụng di động.
+
+  ### WinForm ( dành cho admin và nhân viên ) làm trên visual studio + Dev Express (giao diện )
+	#### Nhân viên : 
 		- Thêm và block các cửa hàng.
 		- Block các mặt hàng .
 		- Duyệt tài khoản cửa hàng.
@@ -16,15 +20,15 @@
 		- Tổng danh thu của từng cửa hàng .
 		- Quản lý tài khoản của mình ( sửa thông tin, mật khẩu )
 		- Xem thông báo cảu admin
-	* Admin :
+	#### Admin :
 		- Thêm và block các cửa hàng.
 		- Thêm và block các mặt hàng.
 		- Duyệt tài khoản các cửa hàng và người dùng.
 		- Thống kê và sắp xếp các cửa hàng.
 		- Xem xóa sửa các bài block .
 		- Thêm xóa sửa các bankner.
-  + Website   ( dành cho chủ cửa hàng và người dùng ) làm trên visual studio + Vs code ( giao diện )
-	* Chủ cửa hàng :
+  ### Website   ( dành cho chủ cửa hàng và người dùng ) làm trên visual studio + Vs code ( giao diện )
+	### Chủ cửa hàng :
 		- Xem xóa sửa các mặt hàng hiện có.
 		- Tùy chỉnh trạng thái của mặt hàng (còn / hết / số lượng ).
 		- Tạo mã giảm giá .
@@ -33,14 +37,14 @@
 		- Sale mặt hàng .
 		- Chat với người dùng.
 		- Hóa đơn ( Xem và xem chi tiết hóa đơn )
-		- Tìm kiếm ( khách hàng , hóa đơn )
+		- Tìm kiếm ( khách hàng , hóa đơn,sản phẩm )
 		- lọc theo ngày tháng năm.
 		- Thống kê mặt hàng bán nhiều nhất .
 		- Thống kê khách hàng mua nhiều nhất .
 		- Xuất báo cáo.
 		- tình trạng của hàng ( đóng mở )
 		- Xem thông bảo từ admin.
-	* Người dùng :
+	### Người dùng :
 		- Đổi ngôn ngữ ( tiếng việt / tiếng anh )
 		- Quản lý tài khoản ( xem sửa thông tin , xem hàng đã mua , đổi mk )
 		- Xem tình trạng đơn hàng.
@@ -54,8 +58,14 @@
 		- Chat với của hàng.
 		- Tìm kiếm bàng giọng nói từ khóa hình ảnh .
 		- Lọc sản phẩm ( loại giá ....)
-  + App         ( dành cho người dùng ) làm trên android studio
-	* Người dùng :	
+	#### Admin :
+	- Thêm và block tài khoản.
+	- Duyệt tài khoản các cửa hàng và người dùng.
+	- Thống kê và sắp xếp các cửa hàng.
+	- Xem xóa sửa các bài block .
+	- Thêm xóa sửa các bankner.
+  #### App ( dành cho người dùng ) làm trên android studio
+	### Người dùng :	
         - Đổi ngôn ngữ ( tiếng việt / tiếng anh )
 		- Quản lý tài khoản ( xem sửa thông tin , xem hàng đã mua , đổi mk )
 		- Xem tình trạng đơn hàng.
@@ -69,5 +79,3 @@
 		- Chat với của hàng.
 		- Tìm kiếm bàng giọng nói từ khóa hình ảnh .
 		- Lọc sản phẩm ( loại giá ....)
-
-![image](https://github.com/Sangundev/DACN/assets/99321687/4fc6e85a-d450-4e0c-b185-7569cea67bd0)
