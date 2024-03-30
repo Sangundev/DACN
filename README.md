@@ -91,3 +91,4 @@ Dự án này nhằm phát triển một sàn thương mại điện tử đa n�
 
 -> Chi tiết hơn có thể xem ở đây: [Google Docs](https://docs.google.com/document/d/18z5d3tiZHktO6uQjMMjiHLwNR3k77FvX/edit?usp=sharing&ouid=103353651563422340424&rtpof=true&sd=true)
 
+![image](https://github.com/Sangundev/DACN/assets/99321687/1c822eb0-7d1b-443f-992a-22be872a781a)
