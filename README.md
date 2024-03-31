@@ -6,8 +6,8 @@
 
 This project aims to develop a multi-platform e-commerce platform, including WinForm application, website and mobile application.
 
-   ### WinForm (for admins and staff) made on visual studio + Dev Express (interface)
-#### Staff :
+   #### WinForm (for admins and staff) made on visual studio + Dev Express (interface)
+### Staff :
 - Add and block stores.
 - Block items.
 - Browse store accounts.
@@ -20,14 +20,14 @@ This project aims to develop a multi-platform e-commerce platform, including Win
 - Total revenue of each store.
 - Manage your account (edit information, password)
 - View admin notices
-#### Admin :
+### Admin :
 - Add and block stores.
 - Add and block items.
 - Browse store and user accounts.
 - Statistics and arrangement of stores.
 - View deletion and editing of block posts.
 - Add, delete, and edit bankers.
-   ### Website (for store owners and users) made on visual studio + Vs code (interface)
+   #### Website (for store owners and users) made on visual studio + Vs code (interface)
 ### Store owner :
 - View, delete and edit existing items.
 - Customize the status of the item (in stock / out / quantity).
@@ -58,7 +58,7 @@ This project aims to develop a multi-platform e-commerce platform, including Win
 - Chat with the store.
 - Search by voice using image keywords.
 - Filter products (price type....)
-#### Admin :
+### Admin :
 - Add and block accounts.
 - Browse store and user accounts.
 - Statistics and arrangement of stores.
