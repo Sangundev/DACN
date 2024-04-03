@@ -8,8 +8,9 @@
     var userManager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(new ApplicationDbContext()));
     var listUser = userManager.Users.ToList();
 }
-
+<h3 style="padding-top:30px">Danh sách mã giảm giá hiện có</h3>
 <div class="container1">
+
     @foreach (var item in Model)
     {
         <div class="card">
@@ -24,12 +25,12 @@
                         if (u.Id == item.StoreId)
                         {
                             <h2>@u.Email</h2>
-                           
+
                             break;
                         }
                         else { continue; }
                     }
-                    
+
                     <h1>@item.DiscountPercent% <span>Coupon</span></h1>
                     <p>@item.EndDate</p>
                 </div>
@@ -48,11 +49,10 @@
         display: flex;
         justify-content: space-evenly;
         align-items: stretch;
-        margin-left: 339px;
-        padding-right: 21pc;
-        padding-top: 91px;
+        padding-top: 30px;
         align-content: stretch;
         flex-wrap: wrap;
+        justify-content: space-around;
     }
 
     .card {

@@ -507,24 +507,6 @@ namespace Food_Web.Areas.Store.Controllers
             // Return a JSON response indicating success
             return Json(new { success = true });
         }
-
-        //[HttpPost]
-        //public JsonResult RemoveProduct(int id)
-        //{
-        //    var product = db.Products.SingleOrDefault(x => x.Productid == id);
-        //    if (product != null)
-        //    {
-        //        var removeDetail = product.Order_detail.ToList();
-        //        var removeCart = product.CartItems.ToList();
-        //        db.Order_detail.RemoveRange(removeDetail);
-        //        db.CartItems.RemoveRange(removeCart);
-        //        db.Products.Remove(product);
-        //        db.SaveChanges();
-        //        return Json(new { success = true });
-        //    }
-        //    return Json(new { success = true });
-        //}
-
         [HttpPost]
         public JsonResult RemoveProduct(int id)
         {

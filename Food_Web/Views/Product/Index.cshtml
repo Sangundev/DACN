@@ -1,4 +1,4 @@
-﻿﻿@model IEnumerable<Food_Web.Models.Product>
+﻿@model IEnumerable<Food_Web.Models.Product>
 @*@model PagedList.IPagedList<Food_Web.Models.CartItem>
     @using PagedList.Mvc*@
 @using System.Resources
@@ -8,41 +8,336 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
     //Layout = null;
 }
-
+<link href="~/Content/Theme/css/home.css" rel="stylesheet" />
 
 <!-- Main-Slider -->
-<div class="default-height ph-item">
-    <div class="slider-main owl-carousel">
-        <div class="bg-image one" style="background-image: url('../../content/bank2.jpg');">
-            <div class="slide-content slide-animation">
-                <h1>Món Ngon Mỗi Ngày</h1>
-                @*<h2>lifestyle / clothing / hype</h2>*@
-            </div>
-        </div>
-        <div class="bg-image two" style="background-image: url('../../Content/bank2.jpg');">
-            <div class="slide-content-2 slide-animation">
-                <h2 class="slide-2-h2-a">Hôm Nay</h2>
-                <h2 class="slide-2-h2-b">Có Gì</h2>
-            </div>
-        </div>
-
-        <div class="bg-image three" style="background-image: url('../../Content/bank1.jpg');">
-            <div class="slide-content slide-animation">
-                <h1>
-                    Tech
-                    <span style="color:#333">Siêu</span>
-                </h1>
-                <h2 style="color:#333">Hời</h2>
-            </div>
-        </div>
-    </div>
-</div>
-
 
 <section class="section-maker">
     <div class="container">
+        <div class="row wrap-carousel">
+            <div class="col-8 h-100 pr-1">
+                <div id="carouselExampleIndicators" class="carousel slide h-100" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                    </ol>
+                    <div class="carousel-inner h-100">
+                        <div class="carousel-item active h-100">
+                            <img src="~/Content/Theme//slider/s1.png" class="d-block w-100 h-100" alt="...">
+                        </div>
+                        <div class="carousel-item h-100">
+                            <img src="~/Content/Theme//slider/s2.png" class="d-block w-100 h-100" alt="...">
+                        </div>
+                        <div class="carousel-item h-100">
+                            <img src="~/Content/Theme//slider/s3.png" class="d-block w-100 h-100" alt="...">
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Trước</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Sau</span>
+                    </a>
+                </div>
+            </div>
+            <div class="col-4 h-100 pl-0">
+                <div class="h-50">
+                    <img class="w-100 h-100" src="~/Content/Theme//slider/s4.png" alt="" />
+                </div>
+                <div class="h-50 pt-1">
+                    <img class="w-100 h-100" src="~/Content/Theme//slider/s5.png" alt="" />
+                </div>
+            </div>
+        </div>
+        <div class="row mx-0 jenis-sale">
+            <div class="d-flex justify-content-between w-100">
+                <div class="d-flex flex-column align-items-center">
+                    <a href="~/Home/Arrivals">
+                        <div class="wrap-img">
+                            <img src="~/Content/Theme/jenisk/new.png" alt="" />
+                        </div>
+                        @Resources.RS_New
+
+                    </a>
+                </div>
+                <div class="d-flex flex-column align-items-center">
+                    <a href="~/Home/Hotdeal">
+
+                        <div class="wrap-img">
+                            <img src="~/Content/Theme/jenisk/hot.png" alt="" />
+                        </div>
+                        @Resources.RS__Exclusive
+                    </a>
+                </div>
+                <div class="d-flex flex-column align-items-center">
+                    <a href="~/Home/flasdeal">
+
+                        <div class="wrap-img">
+                            <img src="~/Content/Theme/jenisk/spgiamgia.png" alt="" />
+                        </div>
+                        @Resources.RS__Deals
+                    </a>
+                </div>
+                <div class="d-flex flex-column align-items-center">
+                    <a href="~/Stores/Index">
+
+                        <div class="wrap-img">
+                            <img src="~/Content/Theme/jenisk/5.png" alt="" />
+                        </div>
+                        @Resources.RS_Store
+                    </a>
+
+                </div>
+                <div class="d-flex flex-column align-items-center">
+                    <a href="~/Discountss/Index">
+
+                        <div class="wrap-img">
+                            <img src="~/Content/Theme/jenisk/giamgia.png" alt="" />
+                        </div>
+                        @Resources.RS_Sale
+                    </a>
+
+                </div>
+                <div class="d-flex flex-column align-items-center">
+                    <a href="~/Blog/Index">
+                        <div class="wrap-img">
+                            <img src="~/Content/Theme/jenisk/blog.png" alt="" />
+                        </div>
+                        Bài Viết
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mx-0 mt-4 kategory">
+            <h5 class="p-4">Loại Sản Phẩm</h5>
+            <div class="d-flex">
+                <div class="d-flex flex-column align-items-center card-kategory">
+                    <a href="@Url.Action("GetProductByCategory", "Product", new { categoryid = 19 })">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk/quanao.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Quần Áo</p>
+
+                    </a>
+
+                </div>
+
+                <div class="d-flex flex-column align-items-center card-kategory">
+                    <a href="@Url.Action("GetProductByCategory", "Product", new { categoryid = 21 })">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk/thoitrangnu.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Thời trang nữ</p>
+
+                    </a>
+                </div>
+
+                <div class="d-flex flex-column align-items-center card-kategory">
+                    <a href="@Url.Action("GetProductByCategory", "Product", new { categoryid = 23 })">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk/thietbidientu.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Thiết bị điện tử</p>
+
+                    </a>
+                </div>
+
+                <div class="d-flex flex-column align-items-center card-kategory">
+                    <a href="@Url.Action("GetProductByCategory", "Product", new { categoryid = 25 })">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk/laptop.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">LapTop &</p>
+                        <p class="mb-0 text-center">Máy Tính</p>
+                    </a>
+                </div>
+
+                <div class="d-flex flex-column align-items-center card-kategory">
+                    <a href="@Url.Action("GetProductByCategory", "Product", new { categoryid = 27 })">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk/mayanh.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Máy Ảnh &</p>
+                        <p class="mb-0 text-center">Máy quay phim</p>
+
+                    </a>
+                </div>
+                <div class="d-flex flex-column align-items-center card-kategory">
+                    <a href="#">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk/dongho.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Đồng hồ</p>
+
+                    </a>
+                </div>
+                <div class="d-flex flex-column align-items-center card-kategory">
+                    <a href="#">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk/giaydepnam.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Giày dép nam &</p>
+
+                    </a>
+                </div>
+                <div class="d-flex flex-column align-items-center card-kategory">
+                    <a href="#">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk/diengiadung.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Thiệt bị điện</p>
+                        <p class="mb-0 text-center">gia dụng</p>
+                    </a>
+                </div>
+                <div class="d-flex flex-column align-items-center card-kategory">
+                    <a href="#">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk/thethao.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Thế thao &</p>
+                        <p class="mb-0 text-center">Du lịch</p>
+                    </a>
+                </div>
+                <div class="d-flex flex-column align-items-center card-kategory">
+                    <a href="#">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk/xemay.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Ô tô &</p>
+                        <p class="mb-0 text-center">Xe Máy</p>
+                    </a>
+                </div>
+
+            </div>
+            <div class="d-flex">
+                <div class="d-flex flex-column align-items-center card-kategory">
+                    <a href="@Url.Action("GetProductByCategory", "Product", new { categoryid = 20 })">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk/dienthoai.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Điện Thoại &</p>
+                        <p class="mb-0 text-center">Phụ Kiện</p>
+                    </a>
+                </div>
+                <div class="d-flex flex-column align-items-center card-kategory">
+                    <a href="@Url.Action("GetProductByCategory", "Product", new { categoryid = 22 })">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk/mevabe.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Mẹ & Bé</p>
+
+                    </a>
+                </div>
+                <div class="d-flex flex-column align-items-center card-kategory">
+                    <a href="@Url.Action("GetProductByCategory", "Product", new { categoryid = 24 })">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk/nhacua.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Nhà cửa &</p>
+                        <p class="mb-0 text-center">Đời Sống</p>
+                    </a>
+                </div>
+                <div class="d-flex flex-column align-items-center card-kategory">
+                    <a href="@Url.Action("GetProductByCategory", "Product", new { categoryid = 26 })">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk/sacdep.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Sắc đẹp</p>
+
+                    </a>
+                </div>
+                <div class="d-flex flex-column align-items-center card-kategory">
+                    <a href="@Url.Action("GetProductByCategory", "Product", new { categoryid = 28 })">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk/suckhoe.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Sức khỏe</p>
+
+
+                    </a>
+                </div>
+                <div class="d-flex flex-column align-items-center card-kategory">
+
+                    <a href="#">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk//giaydepnu.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Giày dép nữ</p>
+                    </a>
+                </div>
+                <div class="d-flex flex-column align-items-center card-kategory">
+
+                    <a href="#">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk//tuivinu.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Túi ví nữ</p>
+                    </a>
+                </div>
+                <div class="d-flex flex-column align-items-center card-kategory">
+
+                    <a href="#">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk//phukien.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Phụ kiện &</p>
+                        <p class="mb-0 text-center">Trang sức nữ</p>
+                    </a>
+                </div>
+                <div class="d-flex flex-column align-items-center card-kategory">
+
+                    <a href="#">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk//bachhoa.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Bách hóa online</p>
+                    </a>
+                </div>
+                <div class="d-flex flex-column align-items-center card-kategory">
+                    <a href="#">
+                        <div class="wrap-img">
+                            <img class="w-100 h-100" src="~/Content/Theme/jenisk//nhasach.png" alt="" />
+                        </div>
+                        <p class="mb-0 text-center mt-2">Nhà Sách online</p>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="row mx-0 mt-4 py-1" style="background-color: #ffffff">
+            <div class="col-8">
+                <img class="w-100 h-100"
+                     src="~/Content/Theme//slider/s6.png"
+                     alt=""
+                     style="border-radius: 20px" />
+            </div>
+            <div class="col-4">
+                <img class="w-100 h-100"
+                     src="~/Content/Theme//slider/s7.png"
+                     alt=""
+                     style="border-radius: 20px" />
+            </div>
+        </div>
         <div class="sec-maker-header text-center">
-            <h3 class="sec-maker-h3">@Resources.RS_HC</h3>
+            <div class="d-flex justify-content-between w-100 pl-5 my-3">
+                <div class="d-flex align-items-center">
+                    <h4 class="mb-0" style="color: #f53d2d">SHOPEE MALL</h4>
+                    <div class="hr1 mx-4"></div>
+                    <img src="~/Content/Theme/11.png" alt="" />
+                    <span class="ml-2">7 Ngày Miễn Phí Trả Hàng</span>
+                    <img class="ml-4" src="~/Content/Theme/22.png" alt="" />
+                    <span class="ml-2">Hàng Chính Hãng 100%              </span>
+                    <img class="ml-4" src="~/Content/Theme/33.png" alt="" />
+                    <span class="ml-2">Miễn Phí Vận Chuyển</span>
+                </div>
+
+            </div>
+
             <ul class="nav tab-nav-style-1-a justify-content-center">
                 <li class="nav-item">
                     <a class="nav-link active" data-toggle="tab" href="#men-latest-products" id="btnAllProducts">@Resources.RS_New</a>
@@ -112,16 +407,42 @@
             <div class="products-slider owl-carousel" data-item="4">
                 @Html.Action("Showgiamgia", "Product")
             </div>
+
         </div>
     </div>
 </section>
 
 <div class="page-deal u-s-p-t-80">
     <div class="container">
-        <div class="deal-page-wrapper">
-            <h1 class="deal-heading" style="font-size: 20px; color: rgb(255, 127, 0); margin-top: 30px; margin-bottom: 10px; ">Gợi ý Hôm Nay</h1>
-
-        </div>
+        <nav style="background-color: #ffffff">
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <a class="nav-link active"
+                   id="nav-home-tab"
+                   data-toggle="tab"
+                   href="#nav-home"
+                   role="tab"
+                   aria-controls="nav-home"
+                   aria-selected="true"
+                   style="color: #f53d2d; border-right: none">
+                    <h6>Gợi ý</h6>
+                </a>
+                <a class="
+                      nav-link
+                      d-flex
+                      justify-content-center
+                      align-items-center
+                    "
+                   id="nav-profile-tab"
+                   data-toggle="tab"
+                   href="#nav-profile"
+                   role="tab"
+                   aria-controls="nav-profile"
+                   aria-selected="false"
+                   style="color: #f53d2d; border-right: none; width: 100px">
+                    <img src="~/Content/Theme/gratis.png" alt="" width="50" />
+                </a>
+            </div>
+        </nav>
         <!-- Page-Bar -->
         <div class="page-bar clearfix">
 
@@ -134,9 +455,9 @@
                 <div class="product-item col-lg-3 col-md-6 col-sm-6">
                     <div class="item">
                         <div class="image-container">
-                            <a class="item-img-wrapper-link" href="single-product.html">
+                            <a class="item-img-wrapper-link" href="@Url.Action("Detail", "Home", new { id = item.Productid })">
 
-                                <img class="img-fluid product-image" src="~/Content/products/@item.image" @*style="width: 230px;"*@>
+                                <img src="~/Content/products/@item.image" style="width: 230px;">
                             </a>
                             <div class="item-action-behaviors">
                                 <a class="item-quick-look" data-toggle="modal" href="#quick-view">Quick Look</a>
@@ -159,11 +480,16 @@
                                     </li>
                                 </ul>
                                 <h6 class="item-title">
-                                    <a href="single-product.html">@item.Productname</a>
+                                    <a href="@Url.Action("Detail", "Home", new { id = item.Productid })">@item.Productname</a>
                                 </h6>
                                 <div class="item-description">
                                     <p>
-                                        This hoodie is full cotton. It includes a muff sewn onto the lower front, and (usually) a drawstring to adjust the hood opening. Throughout the U.S., it is common for middle-school, high-school, and college students to wear this sweatshirts—with or without hoods—that display their respective school names or mascots across the chest, either as part of a uniform or personal preference.
+                                        This hoodie is full cotton. It includes a muff sewn onto
+                                        the lower front, and (usually) a drawstring to adjust the hood opening. T
+                                        hroughout the U.S., it is common for middle-school, high-school, and college
+                                        students to wear this sweatshirts—with or without hoods—that display their
+                                        respective school names or mascots across the chest, either as part of a uniform
+                                        or personal preference.
                                     </p>
                                 </div>
                                 <div class="item-stars">
@@ -203,11 +529,6 @@
     </div>
 </div>
 <style>
-    .product-image {
-        width: 100%;
-        height: 100%;
-        object-fit: cover; /* Choose "cover", "contain", "fill", or "scale-down" based on your preference */
-    }
 
     a.item-img-wrapper-link {
         height: 198px;
@@ -234,7 +555,7 @@
     }
 
         button#show-records:hover {
-            background: #B0A9A2; /* Màu xám khói khi hover */
+            background: #B0A9A2;
         }
 
     .deal-page-wrapper {
@@ -246,6 +567,18 @@
         border: 1px 0px 1px 0px #FFFFF0;
         border: 1px solid;
     }
+
+    .d-flex a {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+        .d-flex a .wrap-img img {
+            padding-bottom: 10px;
+        }
 </style>
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 

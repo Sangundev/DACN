@@ -9,33 +9,15 @@
 @{
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
-    //IdentityDbContext context = new IdentityDbContext();
-    //var listUser = context.Users.ToList();
     var userManager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(new ApplicationDbContext()));
     var listUser = userManager.Users.ToList();
 
+
 }
 
-
-<div class="page-style-a">
-    <div class="container">
-        <div class="page-intro">
-            <h2>Đơn Hàng</h2>
-            <ul class="bread-crumb">
-                <li class="has-separator">
-                    <i class="ion ion-md-home"></i>
-                    <a href="home.html">Home</a>
-                </li>
-                <li class="is-marked">
-                    <a href="wishlist.html">Thông Tin Đơn Hàng </a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</div>
 <div class="page-wishlist u-s-p-t-80">
     <div class="container">
-
+        <h3>Thông tin đơn hàng</h3>
         <div class="row">
             <div class="col-lg-12">
                 <!-- Products-List-Wrapper -->
@@ -44,8 +26,8 @@
                         <thead>
                             <tr>
                                 <th>Stt</th>
-                                <th>Name</th>
                                 <th>Date</th>
+                                <th>Name</th>
                                 <th></th>
                             </tr>
                         </thead>
@@ -78,11 +60,7 @@
                                             }
                                         </div>
                                     </td>
-                                    <td>
-                                        <div class="cart-price">
-                                            @Html.DisplayFor(modelItem => item.Order.Od_date)
-                                        </div>
-                                    </td>
+
                                     <td>
                                         <button class="btn btn-primary btn-sm btn-view-details" data-id="@item.Od_id" data-bs-toggle="modal" data-bs-target="#detailsModal">
                                             <i class="fas fa-eye"></i>
@@ -152,6 +130,7 @@
         List<SelectListItem> paymentMethods = new List<SelectListItem>();
         paymentMethods.Add(new SelectListItem { Text = "Thanh toán trực tiếp", Value = "1" });
         paymentMethods.Add(new SelectListItem { Text = "Thanh toán bằng Momo", Value = "2" });
+        paymentMethods.Add(new SelectListItem { Text = "Thanh toán bằng PayMent", Value = "3" });
         return paymentMethods;
     }
 
@@ -282,6 +261,8 @@
             window.location.href = '/Order_detail/Order'; // Update the URL to the correct action
         } else if (value === '2') {
             window.location.href = '/Order_detail/Payment'; // Update the URL to the correct action
+        } else if (value === '3') {
+            window.location.href = '/ShoppingCart/PaymentVNPay';
         }
 
         // Close the modal
@@ -391,6 +372,7 @@
     });
   });
 });
+
 
 </script>
 

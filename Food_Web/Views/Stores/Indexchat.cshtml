@@ -38,36 +38,6 @@
         </ul>
     </div>
 
-
-
-    @*<form id="sendMessageForm" class="chat-input" action=""> </form>*@
-    @*/Stores/Createmessage*@
-    @*@Html.AntiForgeryToken()
-        <div class="form-group">
-            <textarea id="content" name="content2" class="form-control" placeholder="Enter your message"></textarea>
-        </div>
-        <div class="form-group">
-            <input type="file" id="image" name="image" accept=".png, .jpg, .jpeg" />
-        </div>
-        <div class="form-group" style="display: none;">
-            <input type="text" id="storeId" name="storeId" class="form-control" value="@ViewBag.Storeid" />
-        </div>
-        <button id="sendMessageBtn1" class="btn btn-primary">Send</button>*@
-    @*type="submit"*@
-    @*<form method="post" action="/Stores/postMessage" enctype="multipart/form-data">
-            @Html.AntiForgeryToken()
-            <div class="form-group">
-                <textarea id="content" name="message" class="form-control" placeholder="Enter your message"></textarea>
-            </div>
-            <div class="form-group">
-                <label for="image">Upload Image</label>
-                <input type="file" id="newimage" name="newimage" accept=".png, .jpg, .jpeg" />
-            </div>
-            <div class="form-group" style="display: none;">
-                <input type="file" id="newimage" name="newimage" accept=".png, .jpg, .jpeg" />
-            </div>
-            <button id="sendMessageBtn1" class="btn btn-primary">Send</button>
-        </form>*@
     <form id="sendMessageForm" class="chat-input" enctype="multipart/form-data">
         @Html.AntiForgeryToken()
         <div class="form-group">
@@ -136,41 +106,7 @@
                 }
             })
         }
-        //$('#sendMessageBtn1').click(function (event) {
-        //    event.preventDefault(); // Prevent the default form submission
-        //    var message = $('#content').val();
-        //    var imageInput = document.getElementById('newimage');
-        //    postMessage(message, imageInput);
-        //});
-
-        //function postMessage(message, imageInput) {
-        //    var formData = new FormData();
-        //    formData.append('message', message);
-
-        //    if (imageInput.files.length > 0) {
-        //        formData.append('newimage', imageInput.files[0]);
-        //    }
-
-        //    $.ajax({
-        //        url: '/Stores/postMessage',
-        //        type: 'POST',
-        //        data: formData,
-        //        processData: false,
-        //        contentType: false,
-        //        success: function (response) {
-        //            if (response.success) {
-        //                // Clear the input values after a successful message submission
-        //                imageInput.value = ''; // Reset the file input
-        //                $('#content').val(''); // Reset the message textarea
-        //                $('#content').focus(); // Set focus to the message textarea
-        //                console.log('Success: Message sent');
-        //            } else {
-        //                console.log('Failed to send the message');
-        //            }
-        //        }
-        //    });
-        //}
-
+      
     </script>
 }
 

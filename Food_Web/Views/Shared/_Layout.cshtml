@@ -67,14 +67,14 @@
                                     {
                                         <ul class="primary-nav g-nav">
                                             <li>
-                                                <a href="tel:+111444989">
-                                                    <i class="fas fa-phone u-c-brand u-s-m-r-9"></i>
+                                                <a href="tel:+111444989" class="white-text">
+                                                    <i class="fas fa-phone u-c-brand u-s-m-r-9 white-icon"></i>
                                                     Telephone: @currentUser.PhoneNumber
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="mailto:contact@domain.com">
-                                                    <i class="fas fa-envelope u-c-brand u-s-m-r-9"></i>
+                                                <a href="mailto:contact@domain.com" class="white-text">
+                                                    <i class="fas fa-envelope u-c-brand u-s-m-r-9 white-icon"></i>
                                                     E-mail: @currentUser.Fullname
                                                 </a>
                                             </li>
@@ -86,18 +86,11 @@
                             </nav>
                             <nav>
                                 <ul class="secondary-nav g-nav">
-                                    @*<li>
-                                        <a>
-                                            Discout
-                                            <i class="fas fa-chevron-down u-s-m-l-9"></i>
-                                        </a>
-                                        <ul class="g-dropdown" style="width:200px">
-                                            @Html.Action("NewDiscounts", "Discountss")
-                                        </ul>
-                                    </li>*@
+
+
                                     @Html.Action("NewDiscounts", "Discountss")
                                     <li>
-                                        <a>
+                                        <a class="white-text" href="#">
                                             My Account
                                             <i class="fas fa-chevron-down u-s-m-l-9"></i>
                                         </a>
@@ -143,7 +136,7 @@
                                     </li>
                                     <li>
                                         <a>
-                                            <span id="languageText">ENG</span>
+                                            <span id="languageText" class="white-text">ENG</span>
                                             <i id="languageIcon" class="fas fa-chevron-down u-s-m-l-9"></i>
                                         </a>
                                         <ul class="g-dropdown" style="width: 70px">
@@ -171,14 +164,14 @@
                         <nav>
                             <ul class="primary-nav g-nav">
                                 <li>
-                                    <a href="tel:+111444989">
-                                        <i class="fas fa-phone u-c-brand u-s-m-r-9"></i>
+                                    <a href="tel:+111444989" class="white-text">
+                                        <i class="fas fa-phone u-c-brand u-s-m-r-9 white-icon"></i>
                                         Telephone: @(ViewBag.PhoneNumber ?? "N/A")
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="mailto:contact@domain.com">
-                                        <i class="fas fa-envelope u-c-brand u-s-m-r-9"></i>
+                                    <a href="mailto:contact@domain.com" class="white-text">
+                                        <i class="fas fa-envelope u-c-brand u-s-m-r-9 white-icon"></i>
                                         E-mail: @(ViewBag.Email ?? "N/A")
                                     </a>
                                 </li>
@@ -188,7 +181,7 @@
                         <nav>
                             <ul class="secondary-nav g-nav">
                                 <li>
-                                    <a>
+                                    <a class="white-text" href="#">
                                         My Account
                                         <i class="fas fa-chevron-down u-s-m-l-9"></i>
                                     </a>
@@ -224,7 +217,7 @@
 
                                 <li>
                                     <a>
-                                        <span id="languageText">ENG</span>
+                                        <span id="languageText" class="white-text">ENG</span>
                                         <i id="languageIcon" class="fas fa-chevron-down u-s-m-l-9"></i>
                                     </a>
                                     <ul class="g-dropdown" style="width: 70px">
@@ -259,7 +252,7 @@
                         <div class="col-lg-3 col-md-9 col-sm-6">
                             <div class="brand-logo text-lg-center">
                                 <a href="~/Product/Index">
-                                    <img href="~/Product/Index" src="~/Content/logo1.svg" alt="Groover Brand Logo" class="app-brand-logo" style="width: 200px; height: auto; filter: red;">
+                                    <img href="~/Product/Index" src="~/Content/logo-full-white.png" alt="Groover Brand Logo" class="app-brand-logo" style="width: 200px; height: auto; filter: red;">
                                 </a>
                             </div>
                         </div>
@@ -276,7 +269,7 @@
                                         <i class="fas fa-microphone black-icon"></i>
                                     </button>
                                 </div>
-                                <button id="btn-search" type="submit" class="button button-primary fas fa-search"></button>
+                                <button id="btn-search" type="submit" class="button btn-orange button-primary fas fa-search"></button>
                             </form>
                             <style>
                                 .speak-button {
@@ -285,7 +278,7 @@
                                 }
 
                                 .black-icon {
-                                    color: #000; /* Màu đen */
+                                    color: orangered;
                                 }
                             </style>
                             @*<button id="btnGiveCommand" type="button" class="button button-primary speak-button">Speak <i class="fas fa-microphone"></i></button>*@
@@ -301,19 +294,19 @@
                                 <ul class="mid-nav g-nav">
                                     <li class="u-d-none-lg">
                                         <a href="~/Product/Index">
-                                            <i class="ion ion-md-home u-c-brand"></i>
+                                            <i class="ion ion-md-home u-c-brand white-icon"></i>
                                         </a>
                                     </li>
                                     <li class="u-d-none-lg">
                                         <a href="~/Heart/Index">
-                                            <i class="far fa-heart"></i>
+                                            <i class="far fa-heart white-icon"></i>
                                         </a>
                                     </li>
                                     <li>
                                         <a id="mini-cart-trigger">
-                                            <i class="ion ion-md-basket"></i>
+                                            <i class="ion ion-md-basket white-icon"></i>
                                             <span id="Cart-status" class="item-counter">@ViewBag.CartCount</span>
-                                            <span class="item-price">$220.00</span>
+                                            <span class="item-price white-text">$220.00</span>
                                         </a>
                                     </li>
                                 </ul>
@@ -369,93 +362,6 @@
             </div>
             <!-- Mini Cart /- -->
             <!-- Bottom-Header -->
-            <div class="full-layer-bottom-header">
-                <div class="container">
-                    <div class="row align-items-center">
-                        @Html.Action("GetCategorys", "Product")
-                        <div class="col-lg-9">
-                            <ul class="bottom-nav g-nav u-d-none-lg">
-                                <li>
-                                    <a href="~/Home/Arrivals">
-                                        @Resources.RS_New
-                                        <span class="superscript-label-new">NEW</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="~/Home/Hotdeal">
-                                        @*Exclusive Deals*@
-                                        @Resources.RS__Exclusive
-                                        <span class="superscript-label-hot">HOT</span>
-                                    </a>
-                                </li>
-
-                                <li>
-
-                                    <a href="~/Home/flasdeal">
-                                        @Resources.RS__Deals
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="~/Stores/Index">
-                                        @Resources.RS_Store
-                                    </a>
-                                </li>
-                                <li class="mega-position">
-                                    <a>
-                                        @Resources.RS__Pages
-                                        <i class="fas fa-chevron-down u-s-m-l-9"></i>
-                                    </a>
-                                    <div class="mega-menu mega-3-colm">
-                                        <ul>
-                                            <li class="menu-title">Home & Static Pages</li>
-                                            <li>
-                                                <a href="home.html" class="u-c-brand">Trang Chủ</a>
-                                            </li>
-
-                                            <li>
-                                                <a href="contact.html">Liên Hệ</a>
-                                            </li>
-                                            <li class="menu-title">Single Product Page</li>
-                                            <li>
-                                                <a href="single-product.html">Tìm Kiếm </a>
-                                            </li>
-                                            <li class="menu-title">Blog</li>
-                                            <li>
-                                                <a href="~/Blog/Index">Bài Viết </a>
-                                            </li>
-                                        </ul>
-                                        <ul>
-                                            <li class="menu-title">Ecommerce Pages</li>
-                                            <li>
-                                                <a href="shop-v2-sub-category.html">Cửa Hàng</a>
-                                            </li>
-                                            <li>
-                                                <a href="cart.html">Giỏ Hàng</a>
-                                            </li>
-                                            <li>
-                                                <a href="account.html">Tài Khoản</a>
-                                            </li>
-                                            <li>
-                                                <a href="wishlist.html">Mục ưa thích</a>
-                                            </li>
-                                            <li class="menu-title">Cart Variations</li>
-                                            <li>
-                                                <a href="cart-empty.html">Đã Mua </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </li>
-                                <li>
-                                    <a href="~/Discountss/Index">
-                                        @Resources.RS_Sale
-                                        <span class="superscript-label-discount">-15%</span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
             <!-- Bottom-Header /- -->
         </header>
 
@@ -465,136 +371,209 @@
 
     </div>
     <footer class="footer">
-        <div class="container">
-            <!-- Outer-Footer -->
-            <!-- Outer-Footer /- -->
-            <!-- Mid-Footer -->
-            <div class="mid-footer-wrapper u-s-p-b-80">
+        <div class="main-footer">
+            <div class="grid wide">
+                <div class="row sm-gutter main-footer-info">
+                    <div class="col l-2-4 m-4 c-6">
+                        <h3 class="footer__heading">CHĂM SÓC KHÁCH HÀNG</h3>
+                        <ul class="footer-list">
+                            <li>
+                                <a href="#" class="footer-item-link">Trung Tâm Trợ Giúp</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Shopee Blog</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Shopee Mall</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Hướng Dẫn Mua Hàng</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Hướng Dẫn Bán Hàng</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Thanh Toán</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Shopee Xu</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Vận Chuyển</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Trả Hàng & Hoàn Tiền</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Chăm Sóc Khách Hàng</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Chính Sách Bảo Hành</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col l-2-4 m-4 c-6">
+                        <h3 class="footer__heading">VỀ SHOPEE</h3>
+                        <ul class="footer-list">
+                            <li>
+                                <a href="#" class="footer-item-link">Giới Thiệu Về Shopee Việt Nam</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Tuyển Dụng</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Điều Khoản Shopee</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Chính Sách Bảo Mật</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Chính Hãng</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Kênh Người Bán</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Flash Sales</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Chương Trình Tiếp Thị Liên Kết Shopee</a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link">Liên Hệ Với Truyền Thông</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col l-2-4 m-4 c-12 pay-and-ship">
+                        <div>
+
+                            <h3 class="footer__heading">THANH TOÁN</h3>
+                            <div class="footer-sale-ship">
+                                <img src="~/Content/Theme/img/pay/1.PNG" class="footer-item-sale-ship">
+                                <img src="~/Content/Theme/img/pay/2.PNG" class="footer-item-sale-ship">
+                                <img src="~/Content/Theme/img/pay/3.PNG" class="footer-item-sale-ship">
+                                <img src="~/Content/Theme/img/pay/4.PNG" class="footer-item-sale-ship">
+                                <img src="~/Content/Theme/img/pay/5.PNG" class="footer-item-sale-ship">
+                            </div>
+                        </div>
+                        <div>
+                            <h3 class="footer__heading">ĐƠN VỊ VẬN CHUYỂN</h3>
+                            <div class="footer-sale-ship">
+                                <img src="~/Content/Theme/img/ship/1.PNG" class="footer-item-sale-ship">
+                                <img src="~/Content/Theme/img/ship/2.PNG" class="footer-item-sale-ship">
+                                <img src="~/Content/Theme/img/ship/3.PNG" class="footer-item-sale-ship">
+                                <img src="~/Content/Theme/img/ship/4.PNG" class="footer-item-sale-ship">
+                                <img src="~/Content/Theme/img/ship/5.PNG" class="footer-item-sale-ship">
+                                <img src="~/Content/Theme/img/ship/6.PNG" class="footer-item-sale-ship">
+                                <img src="~/Content/Theme/img/ship/7.PNG" class="footer-item-sale-ship">
+                                <img src="~/Content/Theme/img/ship/8.PNG" class="footer-item-sale-ship">
+                                <img src="~/Content/Theme/img/ship/9.PNG" class="footer-item-sale-ship">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col l-2-4 m-4 c-6">
+                        <h3 class="footer__heading">THEO DÕI CHÚNG TÔI</h3>
+                        <ul class="footer-list">
+                            <li>
+                                <a href="#" class="footer-item-link footer-item-link-fb">
+                                    <i class="footer-item-icon fab fa-facebook-square"></i>
+                                    Facebook
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link footer-item-link-is">
+                                    <i class="footer-item-icon fab fa-instagram-square"></i>
+                                    Instagram
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" class="footer-item-link footer-item-link-li">
+                                    <i class="footer-item-icon fab fa-linkedin"></i>
+                                    LinkedIn
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col l-2-4 m-8 c-6">
+                        <h3 class="footer__heading">TẢI ỨNG DỤNG SHOPEE</h3>
+                        <div class="footer-download">
+                            <a href="#" class="footer-download-link">
+                                <img src="~/Content/Theme/img/qr/qr-code.png" class="footer-download-qr">
+                            </a>
+                            <div class="footer-download-app">
+                                <a href="#" class="footer-download-link">
+                                    <img src="~/Content/Theme/img/qr/gg-play.png" class="footer-download-app-img">
+                                </a>
+                                <a href="#" class="footer-download-link">
+                                    <img src="~/Content/Theme/img/qr/app-store.png" class="footer-download-app-img">
+                                </a>
+                                <a href="#" class="footer-download-link">
+                                    <img src="~/Content/Theme/img/qr/app-gallery.png" class="footer-download-app-img">
+                                </a>
+                                <a href="#" class="footer-download-link">
+                                    <img src="~/Content/Theme/img/qr/ltp-img.png" class="footer-download-app-img">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="row">
-                    <div class="col-lg-3 col-md-3 col-sm-12">
-                        <div class="footer-list">
-                            <h6>CUSTOMER SERVICE</h6>
-                            <ul>
-                                <li>
-                                    <a href="faq.html">FAQs</a>
-                                </li>
-                                <li>
-                                    <a href="track-order.html">Track Order</a>
-                                </li>
-                                <li>
-                                    <a href="terms-and-conditions.html">Terms & Conditions</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-12">
-                        <div class="footer-list">
-                            <h6>COMPANY</h6>
-                            <ul>
-                                <li>
-                                    <a href="home.html">Home</a>
-                                </li>
-                                <li>
-                                    <a href="about.html">About</a>
-                                </li>
-                                <li>
-                                    <a href="contact.html">Contact</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-12">
-                        <div class="footer-list">
-                            <h6>INFORMATION</h6>
-                            <ul>
-                                <li>
-                                    <a href="store-directory.html">Categories Directory</a>
-                                </li>
-                                <li>
-                                    <a href="wishlist.html">My Wishlist</a>
-                                </li>
-                                <li>
-                                    <a href="cart.html">My Cart</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-12">
-                        <div class="footer-list">
-                            <h6>Address</h6>
-                            <ul>
-                                <li>
-                                    <i class="fas fa-location-arrow u-s-m-r-9"></i>
-                                    <span>819 Sugar Camp Road, West Concord, MN 55985</span>
-                                </li>
-                                <li>
-                                    <a href="tel:+923086561801">
-                                        <i class="fas fa-phone u-s-m-r-9"></i>
-                                        <span>+111-444-989</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="mailto:contact@domain.com">
-                                        <i class="fas fa-envelope u-s-m-r-9"></i>
-                                        <span>
-                                            contact@domain.com
-                                        </span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
+                    <div class="grid">
+                        <p class="copyright-title">
+                            © 2021 Shopee copyright - Công ty TNHH CRF - Product by LTP
+                        </p>
                     </div>
                 </div>
-            </div>
-            <!-- Mid-Footer /- -->
-            <!-- Bottom-Footer -->
-            <div class="bottom-footer-wrapper">
-                <div class="social-media-wrapper">
-                    <ul class="social-media-list">
-                        <li>
-                            <a href="#">
-                                <i class="fab fa-facebook-f"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fab fa-twitter"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fab fa-google-plus-g"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fas fa-rss"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fab fa-pinterest"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fab fa-linkedin-in"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fab fa-youtube"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <p class="copyright-text">
-                    Copyright &copy; 2018
-                    <a href="home.html">Groover</a> All Right Reserved
-                </p>
             </div>
         </div>
-        <!-- Bottom-Footer /- -->
+        <div class="other-footer">
+            <div class="grid wide">
+                <div class="row other-footer-heading">
+                    <div class="col l-2">
+                        <a href="#" class="other-footer-link">
+                            CHÍNH SÁCH BẢO MẬT
+                        </a>
+                    </div>
+                    <div class="col l-2">
+                        <a href="#" class="other-footer-link">
+                            QUY CHẾ HOẠT ĐỘNG
+                        </a>
+                    </div>
+                    <div class="col l-2">
+                        <a href="#" class="other-footer-link">
+                            CHÍNH SÁCH VẬN CHUYỂN
+                        </a>
+                    </div>
+                    <div class="col l-2">
+                        <a href="#" class="other-footer-link">
+                            TRẢ HÀNG VÀ HOÀN TIỀN
+                        </a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="grid other-footer-info">
+                        <p class="other-footer-title">Thông tin về Shoppee</p>
+                        <p class="other-footer-more">
+                            Địa chỉ: Tầng 4-5-6, Tòa nhà Capital Place, số 29 đường Liễu Giai,
+                            Phường Ngọc Khánh, Quận Ba Đình, Thành phố Hà Nội, Việt Nam.
+                            <br />Tổng đài hỗ trợ: 19001221 - Email: cskh@hotro.shopee.vn
+                        </p>
+                        <p class="other-footer-more">
+                            Chịu Trách Nhiệm Quản Lý Nội Dung: Nguyễn Đức Trí -
+                            Điện thoại liên hệ: 024 73081221 (ext 4678)
+                        </p>
+                        <p class="other-footer-more">
+                            Mã số doanh nghiệp: 0106773786 do Sở Kế hoạch & Đầu tư
+                            TP Hà Nội cấp lần đầu ngày 10/02/2015
+                        </p>
+                        <p class="other-footer-more">
+                            Ngày sản xuất 2015 -
+                            Bản quyền gốc thuộc về Công ty TNHH Shopee
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </footer>
     <!-- Footer /- -->
     <!-- Dummy Selectbox -->
@@ -847,12 +826,12 @@
 
         function chatMessage(name, message) {
             return `
-                    <li class="chat-message">
-                        <div class="message-content">
-                            <strong>${name}:</strong> ${message}
-                        </div>
-                    </li>
-                `;
+                            <li class="chat-message">
+                                <div class="message-content">
+                                    <strong>${name}:</strong> ${message}
+                                </div>
+                            </li>
+                        `;
         }
     </script>
 </body>
@@ -1342,4 +1321,159 @@
         .nut-mo-chatbox:hover {
             opacity: 1;
         }
+
+    .full-layer-outer-header {
+        background-color: orangered;
+        border-bottom: none;
+    }
+
+    .full-layer-mid-header {
+        background-color: orangered;
+    }
+
+    .white-text {
+        color: white;
+    }
+
+    .white-icon {
+        color: white !important;
+    }
+
+    .footer {
+        padding-top: 150px;
+    }
+
+    .main-footer {
+        background-color: #f9f9f9;
+    }
+
+    .main-footer-info {
+        border-top: 4px solid orangered;
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 20px;
+        padding-top: 10px;
+    }
+
+    .footer__heading {
+        font-size: 1.2rem;
+        color: var(--text-color);
+        font-weight: bold;
+        margin-top: 40px;
+        margin-bottom: 20px;
+    }
+
+    .footer-list {
+        padding: 0;
+        list-style: none;
+    }
+
+    .footer-item-link {
+        text-decoration: none;
+        font-size: 1.2rem;
+        color: var(--footer-color);
+        display: block;
+        padding: 5px 0;
+    }
+
+        .footer-item-link:hover {
+            color: var(--primary-color);
+        }
+
+    .footer-item-icon {
+        font-size: 1.6rem;
+        margin-right: 8px;
+    }
+
+    .footer-sale-ship {
+        display: flex;
+        flex-wrap: wrap;
+        width: 190px;
+    }
+
+    .footer-item-sale-ship {
+        width: 55px;
+        height: 29px;
+        margin: 4px;
+    }
+
+    .footer-item-link-fb:hover {
+        color: dodgerblue;
+    }
+
+    .footer-item-link-is:hover {
+        color: orangered;
+    }
+
+    .footer-item-link-li:hover {
+        color: royalblue;
+    }
+
+    .footer-download {
+        display: flex;
+    }
+
+    .footer-download-qr {
+        width: 80px;
+        height: 80px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+    }
+
+    .footer-download-app {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 16px;
+    }
+
+    .footer-download-app-img {
+        height: 16px;
+    }
+
+    .footer-download-link {
+        text-decoration: none;
+        color: transparent;
+    }
+
+    .copyright-title {
+        padding: 30px 10px;
+        padding-left: 500px;
+        font-size: 1.4rem;
+    }
+
+    .grid.other-footer-info {
+        padding-left: 150px;
+    }
+
+    .other-footer {
+        background-color: #eee;
+        padding: 40px 0;
+    }
+
+    .other-footer-heading {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .other-footer-link {
+        text-decoration: none;
+        font-size: 1.2rem;
+        color: var(--footer-color);
+    }
+
+    .other-footer-info {
+        font-size: 1.2rem;
+        color: var(--text-color);
+        text-align: center;
+    }
+
+    .other-footer-title {
+        margin: 25px 0;
+    }
+
+    .other-footer-more {
+        margin: 8px 10px 0;
+    }
 </style>

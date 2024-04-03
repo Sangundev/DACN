@@ -31,8 +31,9 @@ namespace Food_Web.Models
                 {
                     bool status = statusFilter.Value;
                     orderDetails = orderDetails.Where(o => o.Order.Od_status == status);
+                    
                 }
-
+                
                 int pageSize = 7; // số sản phẩm hiển thị trên mỗi trang
                 int pageIndex = page.HasValue ? page.Value : 1; // trang hiện tại, nếu không có thì mặc định là 1
 
@@ -40,8 +41,8 @@ namespace Food_Web.Models
                 int itemsToSkip = (pageIndex - 1) * pageSize;
 
                 // Sort the orderDetails based on a suitable property before applying Skip and Take
-                orderDetails = orderDetails.OrderBy(o => o.Od_id);
-
+                
+                orderDetails = orderDetails.OrderByDescending(o => o.Order.Od_date);
                 // Get the desired page of items
                 var pagedOrderDetails = orderDetails.Skip(itemsToSkip).Take(pageSize).ToList();
 

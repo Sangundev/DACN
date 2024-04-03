@@ -100,14 +100,14 @@ namespace Food_Web.Areas.Store.Controllers
             {
                 order_details = order_details
                     .Where(o => DbFunctions.TruncateTime(o.Order.Od_date) == DbFunctions.TruncateTime(od_day.Value) && o.Storeid == userId)
-                    .OrderBy(o => o.Order.Od_date); // Add ordering by date
+                    .OrderBy(o => o.Order.Od_date);
                 Session["selcetodday"] = od_day;
             }
             else
             {
                 order_details = order_details
                     .Where(o => o.Storeid == userId)
-                    .OrderBy(o => o.Order.Od_date); // Add ordering by date
+                    .OrderBy(o => o.Order.Od_date);
             }
 
             const int pageSize = 10;

@@ -78,10 +78,11 @@ namespace Food_Web.Models
 
 
         public static string getIdStore = "";
-
-            public ActionResult StoreProducts(string id)
+       
+        public ActionResult StoreProducts(string id)
             {
             Session["CurrentStoreId"] = id;
+            
             getIdStore = id;
                 if (string.IsNullOrEmpty(id))
                 {
@@ -90,46 +91,19 @@ namespace Food_Web.Models
 
                 using (var db = new ApplicationDbContext())
                 {
-                    var products = db.Products.Where(p => p.Userid == id /*&& p.status == true*/).ToList();
+                    var products = db.Products.Where(p => p.Userid == id).ToList();
                     ViewBag.userId = id;
+                    var user = db.Users.FirstOrDefault(u => u.Id == id);
+                    if (user != null)
+                    {
+                        ViewBag.userName = user.UserName;
+                    }
 
-                    return View(products);
+                return View(products);
                 }
             }
 
-        //[HttpPost]
-        // [ValidateAntiForgeryToken]
-        // public async Task<ActionResult> Create([Bind(Include = "content, created_at, Rating, storeId")] Comment comment , string storeId)
-        // {
-        //     getIdStore= storeId;
-        //     if (!User.Identity.IsAuthenticated)
-        //     {
-        //         return RedirectToAction("Login", "Account");
-        //     }
-        //     if (ModelState.IsValid)
-        //     {
-        //         using (var db = new FoodcontextDB())
-        //         {
-        //             // Retrieve the maximum comment_id from the database
-        //             int maxCommentId = db.Comments.Max(c => c.comment_id);
-
-        //             // Increment the comment_id by 1 to generate a new unique ID
-        //             comment.comment_id = maxCommentId + 1;
-
-        //             // Set the user_id and Store_id
-        //             comment.user_id = User.Identity.GetUserId();
-        //             comment.Store_id = storeId;
-        //             comment.created = DateTime.Now;
-
-        //             db.Comments.Add(comment);
-        //             await db.SaveChangesAsync();
-        //         }
-
-        //         return RedirectToAction("StoreProducts", new { id = storeId });
-        //     }
-
-        //     return View("StoreProducts");
-        // }
+       
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<ActionResult> Create([Bind(Include = "content, created_at, Rating, storeId")] Comment comment, string storeId, HttpPostedFileBase image)
@@ -312,49 +286,6 @@ namespace Food_Web.Models
 
             return Json(new { success = false, storeid = storeid });
         }
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public JsonResult postMessage(string message, HttpPostedFileBase newimage)
-        //{
-        //    string Userid = User.Identity.GetUserId();
-        //    string storeid = Session["CurrentStoreId"] as string;
-        //    TimeSpan timeDuration = DateTime.Now.TimeOfDay;
-
-        //    if (storeid != null)
-        //    {
-        //        string imagePath = null; // Initialize imagePath to null
-
-        //        // Check if an image is being uploaded
-        //        if (newimage != null && newimage.ContentLength > 0)
-        //        {
-        //            // Save the image and images the image path
-        //            imagePath = SaveImage(newimage);
-        //        }
-
-        //        // Create a new message with message text, user, store, time, and image path
-        //        int max = db.Messages.Max(c => c.Id);
-        //        Message mess = new Message
-        //        {
-        //            Id = max + 1,
-        //            Content = message,
-        //            Userid = Userid, // Use Userid, not User.Identity.GetUserId()
-        //            Storeid = storeid,
-        //            Time = timeDuration,
-        //            Img = imagePath // Set the image path
-        //        };
-
-        //        db.Messages.Add(mess);
-        //        db.SaveChanges();
-
-        //        // Tạo kết nối tới SignalR Hub
-        //        var hubContext = GlobalHost.ConnectionManager.GetHubContext<ChatHub>();
-        //        hubContext.Clients.User(Userid).SendPrivateMessage(storeid, message);
-        //        hubContext.Clients.All.addNewMessageToPage(storeid, message);
-
-        //        return Json(new { success = true });
-        //    }
-
-        //    return Json(new { success = false, storeid = storeid });
-        //}
+        
     }
 }

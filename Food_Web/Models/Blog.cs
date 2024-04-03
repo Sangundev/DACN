@@ -5,6 +5,7 @@ namespace Food_Web.Models
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
+    using System.Web.Mvc;
 
     [Table("Blog")]
     public partial class Blog
@@ -12,6 +13,7 @@ namespace Food_Web.Models
         public int Blogid { get; set; }
 
         [StringLength(100)]
+        [AllowHtml]
         public string Bloglong { get; set; }
 
         [Column(TypeName = "date")]
